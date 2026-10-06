@@ -1,6 +1,6 @@
-# Codveda Machine Learning Internship
+# Churn Machine Learning Internship
 
-Repository containing machine learning projects completed as part of the Codveda Machine Learning Internship.
+Repository containing machine learning projects from a churn dataset.
 
 ---
 
@@ -16,7 +16,6 @@ Repository containing machine learning projects completed as part of the Codveda
 ## Repository Structure
 
 ```text
-codveda-machine-learning-internship/
 ├── data/
 │   └── raw/
 ├── notebooks/
@@ -31,24 +30,12 @@ codveda-machine-learning-internship/
 
 ---
 
-## Internship Progress
+## Tasks
 
-### Level 1 (Basic)
-- [ ] Task 1 — Data Preprocessing
-- [ ] Task 2 — Linear Regression
-- [ ] Task 3 — KNN Classification
-
-### Level 2 (Intermediate)
-- [ ] Task 1 — Logistic Regression
-- [ ] Task 2 — Decision Trees
-- [ ] Task 3 — K-Means Clustering
-
-### Level 3 (Advanced)
-- [ ] Task 1 — Random Forest
-- [ ] Task 2 — Support Vector Machine
-- [ ] Task 3 — Neural Networks
-
----
+- Data Preprocessing
+- Linear Regression
+- KNN Classification
+- Logistic Regression
 
 ## Tech Stack
 
@@ -63,4 +50,4 @@ codveda-machine-learning-internship/
 
 ## Status
 
-Project setup in progress.
+TBD
