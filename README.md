@@ -20,8 +20,7 @@ Repository containing machine learning projects from a churn dataset.
 │   └── raw/
 ├── notebooks/
 │   ├── level_1/
-│   ├── level_2/
-│   └── level_3/
+│   └── level_2/
 ├── src/
 ├── .gitignore
 ├── LICENSE
